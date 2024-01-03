@@ -39,7 +39,7 @@ export const TransportSystem_ButtonDiv = styled("div")({
 
 export const TransportSystem_InnerDiv = styled("div")({
   width: "30%",
-  backgroundColor: "red",
+
   height: "fit-content",
   overflow: "hidden",
   "@media (max-width : 62.5em)": {
